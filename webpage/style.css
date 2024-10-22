@@ -1,0 +1,86 @@
+/* h2{
+    color: rgb(18, 22, 247);
+}
+body{
+    background-color: rgb(228, 250, 141);
+}
+.services{
+    background-color: rgb(247, 139, 139);
+}
+#Contact{
+background-color: rgb(171, 188, 245);
+}
+.child1{
+    background-color: aliceblue;
+    color: rgb(2, 59, 40);
+}
+.child2{
+   color: rgb(2, 59, 40);
+}
+.contact > .child1{
+    color: ;
+} */
+
+
+
+header{
+    background-color: rgb(190, 138, 238);
+    color: rgb(1, 12, 78);
+    padding: 30px;
+}
+
+.navbar{
+   background-color:  rgb(0, 0, 0);
+}
+
+ul{
+list-style: none;
+}
+
+ul li{
+float: left;
+}
+li a{
+    color: rgb(53, 10, 153);
+    text-align: center;
+    padding: 10px 20px;
+
+}
+ul li a:hover{
+    background-color: rgb(234, 214, 243);
+}
+form{
+    display: grid;
+    grid-template-columns: 1fr ;
+    gap: 2px;
+    margin: auto;
+    max-width: 700px;
+}
+label{
+    text-align: left;
+    padding: 0px 10px;
+}
+input{
+    background-color: rgb(235, 215, 243);
+    width: 50%;
+    box-sizing: border-box;
+
+}
+.submit_button{
+    background-color: rgb(71, 238, 71);
+    cursor: pointer;
+}
+.submit_button:hover{
+    background-color: rgb(235, 214, 100);
+    color: brown;
+}
+footer{
+    display: grid;
+    grid-template-columns: 2fr ;
+    background-color: rgb(190, 138, 238);
+    color: rgb(4, 4, 46);
+    padding: 30px;
+}
+h2{
+    color: aliceblue;
+}
