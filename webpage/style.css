@@ -75,8 +75,6 @@ input{
     color: brown;
 }
 footer{
-    display: grid;
-    grid-template-columns: 2fr ;
     background-color: rgb(190, 138, 238);
     color: rgb(4, 4, 46);
     padding: 30px;
